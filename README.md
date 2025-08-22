@@ -161,13 +161,18 @@ The project supports English and Persian languages:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-**Hoodis Pars Printing & Packaging Complex**
-- Address: No. 4, 5th Alley St., 52nd Blvd., Karaj Express Way (16th Km.), Tehran, IRAN
-- Website: [https://hoodis.com](https://hoodis.com)
-- Email: info@hoodis.com
+© 1998 HOODIS Co. All rights reserved
 
 ---
 
-© 1998 HOODIS Co. All rights reserved
+## 📞 Contact Developer
+
+**Artin Ebrahim Khani**
+- Email: Artin@prstg.net
+
+**Mani Mirzaei**
+- Email: Mani@prstg.net
+
+
+
+
